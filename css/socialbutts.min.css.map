@@ -2,7 +2,7 @@
     "version": 3,
     "mappings": "",
     "sources": [
-        "../../myrecipes-ssg/scss/socialbutts.scss"
+        "../../MyRecipez-ssg/scss/socialbutts.scss"
     ],
     "names": [],
     "file": "socialbutts.min.css"
