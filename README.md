@@ -1,3 +1,3 @@
 # MyRecipez
 verkefni4
-í vinnslu GJG -- ekki vinna í þessu á meðan
+### vefurinn er á gh-pages
